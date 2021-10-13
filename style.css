@@ -1,0 +1,11 @@
+body{
+    padding: 0;
+    margin:0;
+    background-color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.clock {
+    text-align: center;
+    margin: 10%;
+}
